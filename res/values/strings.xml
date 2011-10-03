@@ -2667,6 +2667,25 @@ found in the list of installed applications.</string>
     <string name="wimax_settings_summary">Set up &amp; manage 4G network and modem</string>
     <string name="status_wimax_mac_address">4G MAC address</string>
 
+    <!-- Ethernet configuration dialog -->
+    <string name="eth_config_title">Configure Ethernet device</string>
+    <string name="eth_setting">Ethernet setting</string>
+    <string name="eth_dev_list">Ethernet Devices:</string>
+    <string name="eth_con_type">Connection Type</string>
+    <string name="eth_con_type_dhcp">Dhcp</string>
+    <string name="eth_con_type_manual">Static IP</string>
+    <string name="eth_dns">DNS address</string>
+    <string name="eth_gw">Default Router</string>
+    <string name="eth_ipaddr">IP address</string>
+    <string name="eth_quick_toggle_title">Ethernet</string>
+    <string name="eth_quick_toggle_summary">Turn on Ethernet</string>
+    <string name="eth_radio_ctrl_title">Ethernet configuration</string>
+    <string name="eth_conf_perf_title">Ethernet configuration</string>
+    <string name="eth_conf_summary">Configure Ethernet devices</string>
+    <string name="eth_mask">Netmask</string>
+    <string name="eth_toggle_summary_off">Turn off Ethernet</string>
+    <string name="eth_toggle_summary_on">Turn on Ethernet</string>
+
     <!-- A menu item in "About phone" that allows the user to update the phone with settings
     from their cell phone carrier. The use of the string is similar to the string
     "system_update_settings_list_item_title" in this project. [CHAR LIMIT=25] -->
